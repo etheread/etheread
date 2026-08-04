@@ -1,3 +1,4 @@
 # about
-stack:<mark>TS/Nest<mark/>
-Wanna learn<mark>Solidity/Rust<mark/>
+stack:TS/Nest
+<br/>
+Wanna learn:Solidity/Rust/bun
