@@ -1,5 +1,7 @@
 # about
-stack:TS+Hono+bun
+stack:Ts(node || bun)
+<br/>
+frameworks:nest,hono
 <br/>
 Wanna learn:Solidity/Rust
 
