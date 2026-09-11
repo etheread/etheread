@@ -1,7 +1,7 @@
 # about
-stack:Ts(node || bun)
+stack:Ts(node)
 <br/>
-frameworks:nest,hono
+frameworks:nest
 <br/>
 Wanna learn:Solidity/Rust
 
