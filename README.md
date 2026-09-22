@@ -1,5 +1,5 @@
 # about
-stack:baxkend:Ts(node || bun),rust(for perfomance backends)
+stack:backend:Ts(node || bun),rust(for perfomance backends)
 <br/>
 frameworks:nest,hono,axum
 <br/>
