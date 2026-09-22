@@ -1,9 +1,8 @@
 # about
-stack:Ts(node || bun)
+stack:baxkend:Ts(node || bun),rust(for perfomance backends)
 <br/>
-frameworks:nest,hono
+frameworks:nest,hono,axum
 <br/>
 Wanna learn:Solidity
-cuurently learning:Rust
 
 Domain:web3
