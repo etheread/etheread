@@ -1,5 +1,5 @@
 # about
-stack::Ts
+stack::Ts|rust
 
 
 frameworks:nest,hono
