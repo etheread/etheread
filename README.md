@@ -1,7 +1,7 @@
 # about
-stack::Ts|rust
+stack::Ts
 
-
+wanna learn:go
 frameworks:nest,hono
 
 
