@@ -1,8 +1,8 @@
 # about
-stack::Ts|Rust
+stack::Ts
 
 
-frameworks:nest,hono,axum
+frameworks:nest,hono
 
 
 Domain:web3
