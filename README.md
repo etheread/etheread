@@ -1,9 +1,7 @@
 # about
-stack::Ts
+languages:go
 
-wanna learn:go
-
-frameworks:nest,hono
+frameworks:hono,echo
 
 
 Domain:web3
