@@ -1,7 +1,8 @@
 # about
 languages:ts,go
 
-frameworks:nest,echo
+frameworks:nest
 
+wanna learn:fiber
 
 Domain:web3
