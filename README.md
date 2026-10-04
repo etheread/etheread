@@ -1,7 +1,7 @@
 # about
-languages:go
+languages:ts,go
 
-frameworks:hono,echo
+frameworks:nest,echo
 
 
 Domain:web3
