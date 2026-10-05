@@ -1,10 +1,9 @@
 # about
-languages:ts,go
+languages:ts
 
 frameworks:nest
 
 currently learning:rust
 
-wanna learn:fiber
 
 Domain:web3
